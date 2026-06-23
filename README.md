@@ -21,9 +21,14 @@ This is where I practice my mind to become a "human-computer". It includes colle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ngtanphat-hcmus/back-pain-algorithms/tree/main/0020-valid-parentheses/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/ngtanphat-hcmus/back-pain-algorithms/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ngtanphat-hcmus/back-pain-algorithms/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ngtanphat-hcmus/back-pain-algorithms/tree/main/0020-valid-parentheses/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/ngtanphat-hcmus/back-pain-algorithms/tree/main/0657-robot-return-to-origin/) | Easy |
 <!---LeetCode Topics End-->
